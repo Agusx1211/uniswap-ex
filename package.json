@@ -28,6 +28,7 @@
     "ganache-cli": "^6.2.4",
     "mocha": "^6.0.2",
     "truffle": "^5.0.33",
-    "truffle-flattener": "^1.2.4"
+    "truffle-flattener": "^1.2.4",
+    "uniswap": "file:webapp"
   }
 }
